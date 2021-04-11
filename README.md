@@ -14,7 +14,7 @@ Latest version of Repetier Server Docker image is `v1.0.3` ([Changelog](https://
 
 ## Usage
 
-Make sure to adapt `/dev/tyyUSB` for your use case in the examples below.
+Make sure to adapt `/dev/ttyUSB` for your use case in the examples below.
 
 ### With CLI
 
