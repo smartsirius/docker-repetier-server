@@ -25,7 +25,7 @@ docker run -it -p 3344:3344 -v repetier-data:/data --device=/dev/ttyUSB0 --name 
 
 ### With docker-compose
 
-Start contaienr
+Start container
 ```bash
 docker-compose up -d
 ```
